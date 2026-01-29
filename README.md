@@ -52,26 +52,18 @@ Java Backend & Full Stack Developer 🚀 | Spring Boot • Angular • MySQL
 ---
 
 ### 🚀 Featured Projects
-🔹 **WorkMitra**  
-Service provider platform connecting users with local workers  
-**Tech:** Angular, Firebase  
+🔹 **Chrome Extension – Smart Job Application Tracker**  
+A browser-based tool to track job applications, statuses, and notes directly while applying on job portals  
+**Tech:** JavaScript, HTML, CSS, Chrome Extensions API,Node.js,MongoDB Atlas
+
 
 🔹 **Personal Finance Dashboard**  
 Expense tracking & budget visualization application  
 **Tech:** Angular, Firebase  
 
-🔹 **E-Commerce Web Application**  
-End-to-end shopping app with authentication & orders  
-**Tech:** Servlets, JSP, JDBC, MySQL  
-
-🔹 **Library Management System**  
-Book issue, return, and fine management system  
-**Tech:** Java, MySQL  
 
 ---
 
 📈 *Consistently improving through real projects, clean commits, and practical problem solving.*
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mongamnarendra" alt="mongamnarendra" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mongamnarendra&" alt="mongamnarendra" /></p>
