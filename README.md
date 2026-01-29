@@ -64,6 +64,6 @@ Expense tracking & budget visualization application
 
 ---
 
-📈 *Consistently improving through real projects, clean commits, and practical problem solving.*
+ *Consistently improving through real projects, clean commits, and practical problem solving.*
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mongamnarendra&" alt="mongamnarendra" /></p>
