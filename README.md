@@ -1,23 +1,77 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGtbExlF2oAjQ/profile-displaybackgroundimage-shrink_350_1400/B56ZwH7PRIJEAY-/0/1769659501135?e=1771459200&v=beta&t=7gCvtnP4fyI3K39kJ0kE-hApUvD9y3zVnOCHCotgD90)](https://mongamnarendra.github.io/Portfolio/portfolio.html)
+
 <h1 align="center">Hi 👋, I'm Narendra Mongam</h1>
-<h3 align="center">Java Backend & Full Stack Developer 🚀 | Spring Boot • Angular • MySQL</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
+<h3 align="center">
+Java Backend & Full Stack Developer 🚀 | Spring Boot • Angular • MySQL
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mongamnarendra&label=Profile%20views&color=0e75b6&style=flat" alt="mongamnarendra" /> </p>
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **Java Full Stack & MERN Stack**
-
-- 📫 How to reach me **mongamnarendra@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/narendra-mongam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narendra-mongam/" height="30" width="40" /></a>
+<p align="center">
+💡 I build backend-driven web applications with clean APIs, solid architecture, and practical UI.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mongamnarendra&label=Profile%20views&color=0e75b6&style=flat" alt="mongamnarendra" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mongamnarendra&" alt="mongamnarendra" /></p>
+---
+
+### 👨‍💻 About Me
+- 🌱 Currently strengthening **Backend & Full Stack skills**
+- 💬 Ask me about **Java, Spring Boot, Angular & REST APIs**
+- 🚀 Passionate about building **scalable, real-world web applications**
+- 📫 Reach me at **mongamnarendra@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/narendra-mongam/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
+<a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+🔹 **WorkMitra**  
+Service provider platform connecting users with local workers  
+**Tech:** Angular, Firebase  
+
+🔹 **Personal Finance Dashboard**  
+Expense tracking & budget visualization application  
+**Tech:** Angular, Firebase  
+
+🔹 **E-Commerce Web Application**  
+End-to-end shopping app with authentication & orders  
+**Tech:** Servlets, JSP, JDBC, MySQL  
+
+🔹 **Library Management System**  
+Book issue, return, and fine management system  
+**Tech:** Java, MySQL  
+
+---
+
+📈 *Consistently improving through real projects, clean commits, and practical problem solving.*
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mongamnarendra" alt="mongamnarendra" />
+</p>
