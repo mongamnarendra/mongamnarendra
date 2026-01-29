@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGtbExlF2oAjQ/profile-displaybackgroundimage-shrink_350_1400/B56ZwH7PRIJEAY-/0/1769659501135?e=1771459200&v=beta&t=7gCvtnP4fyI3K39kJ0kE-hApUvD9y3zVnOCHCotgD90)](https://mongamnarendra.github.io/Portfolio/portfolio.html)
 <h1 align="center">Hi 👋, I'm Narendra Mongam</h1>
 <h3 align="center">Java Backend & Full Stack Developer 🚀 | Spring Boot • Angular • MySQL</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
